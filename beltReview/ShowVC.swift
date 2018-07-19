@@ -38,10 +38,6 @@ class ShowVC: UIViewController {
         
     }
     
-
-    
-    
-    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
     }

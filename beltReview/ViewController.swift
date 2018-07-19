@@ -154,11 +154,7 @@ class ViewController: UIViewController {
                 dest.indexPathAddEditVC = indexPath // to send the indxpath and have a value
             }
         }
-
-
-        
     }
-    
 }
 
 
